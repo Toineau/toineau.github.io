@@ -1,0 +1,14 @@
+{
+  "Gare Centrale": {
+    "terminus": true,
+    "lignes": ["L1"],
+    "terminus_lignes": {
+      "L1": ["Campus Alan Turing", "Gare Centrale"]
+    },
+    "infrastructures": ["Quais couverts"],
+    "agence": {
+      "presente": true,
+      "services": ["Abonnements", "Informations"]
+    }
+  }
+}
