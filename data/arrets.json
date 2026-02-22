@@ -10,23 +10,21 @@
       "presente": true,
       "services": ["Abonnements", "Informations"]
     }
-  }
-}
-{
+  },
+
   "Aéroport": {
     "terminus": true,
     "lignes": ["L2"],
     "terminus_lignes": {
-      "L2": ["Musée d'Art Moderne"],["Pôle Luca Pacioli"]
+      "L2": ["Aéroport"]
     },
     "infrastructures": ["Quais couverts"],
     "agence": {
       "presente": true,
       "services": ["Abonnements", "Informations"]
     }
-  }
-}
-{
+  },
+
   "Traversière": {
     "terminus": false,
     "lignes": ["L5"],
