@@ -16,7 +16,7 @@
     "terminus": true,
     "lignes": ["L2"],
     "terminus_lignes": {
-      "L2": ["Aéroport", "Centre-Ville"]
+      "L2": ["Aéroport", "Gare Centrale"]
     },
     "infrastructures": ["Quais couverts"],
     "agence": {
